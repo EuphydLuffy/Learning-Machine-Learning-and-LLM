@@ -1,4 +1,4 @@
-This notebook demonstrates development of a document-aware chatbot using LangChain’s Conversational Retrieval Chain to answer questions about history books. 
+This notebook shows development of a document-aware chatbot using LangChain’s Conversational Retrieval Chain to answer questions about history books. 
 
 The notebook covers the following steps:
 1. Load and preprocess documents using LangChain's document loaders and text splitters.
@@ -8,7 +8,7 @@ The notebook covers the following steps:
 5. Test the chatbot with sample questions and analyze its performance.
 
 Note:
-* This notebook was built in Google Colab free version and only utlizes open-source language models and packages.
+* Requires ~ 15GB GPU memory. 
 * MiniLM sentence transformer is used for constructing the vector space for semantic searching.
 * A quantized Llama 3-8B Instruct model is uesed for question answering.
 	
