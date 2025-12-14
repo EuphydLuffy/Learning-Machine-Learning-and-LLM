@@ -1,4 +1,4 @@
-# LLM summarization projects
+# Summarization with small language models
 
 ## Contents
 - Summarization accuracy comparison: Llama 3.2 1B-instruct vs Flan-t5 large
